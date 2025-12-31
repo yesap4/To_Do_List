@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.title('To-Do List')
+st.title('To-Do List App')
 
 task = st.text_input('Enter Your Task:', '')
 
